@@ -6,6 +6,62 @@ x <- "Hola"
 
 y <- "UNTRM"
 
+paste(x, y)
+
+#..........................................................................
+
+saludo2 <- function(quien) {
+
+  x <- "Hola"
+  Y <- quien
+  
+  paste(x, y)
+  
+  }
+  
+saludo2(quien = "FICA")
+saludo2(quien = "JUAN")
+  
+  
+  #.......................................................................
+  
+saludo3 <- function(texto, quien) {
+  
+  x <- texto
+  Y <- quien
+  
+  paste(x, y)
+  
+}
+
+saludo3(texto = "como estas", quien = "FICA")
+
+#...........................................................................
+
+#.funcion.para.calcular.la.nota.de.la unidad.1
+#.PA.=.30%,. AC.=.20%.y EX.=50
+#.crear una funcion donde me de la media ponderada
+
+nota < function(PA, AC, EX) {
+  
+  
+  area_cir <- function(radio, unidad = "cm") {
+    
+    
+    
+    
+  }
+  
+  
+  
+  
+}
+
+
+
+saludo2(quien = "FICA")
+saludo2(quien = "JUAN")
+
 # f(x, y) =x + x^2 +2xy
 
 # ayuda: F1 | Fn +F1
